@@ -151,14 +151,41 @@ margin: 3%;
 .part-2 h1{
 font-weight: 600;
 }
-.hero-btn2 {
-display: inline-block;
-text-decoration: none;
-color: #fff;
-border: 1px solid #fff;
-background: #f44336;
-margin-top: 10px;
-padding: 12px 30px;
-font-size: 16px;
+.part-3{
+  text-align: center;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.part-3 h1{
+  font-weight: 600;
+  padding-bottom: 5px;
+}
+.form{
+  margin-top: 40px;
+  padding: 60px;
+  background-color: #fbd8af;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.btn-form{
+  background: #f44336;
+  padding: 10px 30px;
+  color: #fff;
+}
+
+footer{
+  background: #000;
+  text-align: center;
+  padding: 30px;
+}
+footer h3{
+  color: #f44336;
+  font-style: italic;
+}
+footer p{
+  color: #ccc;
+  font-size: small;
 }
 
